@@ -8,7 +8,7 @@ include 'functions.php';
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" href="/icones/icone1.svg" type="image/x-icon">
-	<?=template_header('Pizzaria Matheus')?>
+	<?=template_header('Biagioni Pizzas')?>
 
 <div class="content">
 	<h2>Inicio</h2>
